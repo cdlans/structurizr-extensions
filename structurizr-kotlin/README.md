@@ -1,4 +1,4 @@
-# Structurizr Extensions for Spring Boot
+# Structurizr Extensions for Kotlin
 
 You love Structurizr? You love Kotlin? Then this is your place. This tiny extension for [Structurizr](https://structurizr.com/)
 lets you create your models in a fluent way:
